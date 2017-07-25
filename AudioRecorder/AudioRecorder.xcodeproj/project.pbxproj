@@ -20,6 +20,7 @@
 		5CAAB01C1F27909300E16029 /* ExtensionDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5CAAB01B1F27909300E16029 /* ExtensionDelegate.swift */; };
 		5CAAB01E1F27909300E16029 /* NotificationController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5CAAB01D1F27909300E16029 /* NotificationController.swift */; };
 		5CAAB0201F27909300E16029 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5CAAB01F1F27909300E16029 /* Assets.xcassets */; };
+		5CAAB0301F27ABC200E16029 /* AudioRecordingController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5CAAB02F1F27ABC200E16029 /* AudioRecordingController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -83,6 +84,7 @@
 		5CAAB01D1F27909300E16029 /* NotificationController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NotificationController.swift; sourceTree = "<group>"; };
 		5CAAB01F1F27909300E16029 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		5CAAB0211F27909300E16029 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		5CAAB02F1F27ABC200E16029 /* AudioRecordingController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AudioRecordingController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -152,6 +154,7 @@
 				5CAAB0191F27909300E16029 /* InterfaceController.swift */,
 				5CAAB01B1F27909300E16029 /* ExtensionDelegate.swift */,
 				5CAAB01D1F27909300E16029 /* NotificationController.swift */,
+				5CAAB02F1F27ABC200E16029 /* AudioRecordingController.swift */,
 				5CAAB01F1F27909300E16029 /* Assets.xcassets */,
 				5CAAB0211F27909300E16029 /* Info.plist */,
 				5CAAB0171F27909300E16029 /* Supporting Files */,
@@ -311,6 +314,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5CAAB0301F27ABC200E16029 /* AudioRecordingController.swift in Sources */,
 				5CAAB01E1F27909300E16029 /* NotificationController.swift in Sources */,
 				5CAAB01C1F27909300E16029 /* ExtensionDelegate.swift in Sources */,
 				5CAAB01A1F27909300E16029 /* InterfaceController.swift in Sources */,
